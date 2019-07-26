@@ -1,5 +1,6 @@
 h2{
     text-align: center;
+    text-shadow: 2px 2px 4px solid black;
 
 }
 ul {
@@ -7,10 +8,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
-    position: -webkit-sticky; /* Safari */
-    position: sticky;
-    top: 0;
+    background-color:teal;
   }
   
   li {
@@ -23,4 +21,10 @@ ul {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+  }
+  #contacts{
+      background-color: aqua;
+  }
+  table, th, td {
+    border: 1px solid black;
   }
