@@ -29,6 +29,14 @@ ul {
     border: 1px solid black;
   }
   img{
-    height:50%;
-    width: 50%;
+    height:100px;
+    width: 30%;
+  }
+  body{
+      margin: 0;
+      font-size: 16px;
+      position: relative;
+      background-image: url(/images/v3/backgrounds/pictures/body/winestopper.jpg);
+      background-repeat: no-repeat;
+      
   }
