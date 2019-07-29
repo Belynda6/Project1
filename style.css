@@ -1,0 +1,38 @@
+h2{
+    text-align: center;
+    text-shadow: 2px 2px 4px solid black;
+
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:teal;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  #contacts{
+      background-color: aqua;
+  }
+  table, th, td {
+    border: 1px solid black;
+  }
+  img{
+    height:400px;
+    width: 15%;
+  }
+  .home{
+    background-image: src="https://cdn2.hercampus.com/hero-images/2018/10/05/HC_1.jpg";
+    background-repeat: no-repeat;
+  }
