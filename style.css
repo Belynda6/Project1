@@ -39,7 +39,7 @@ img {
   float: left;
   border-radius: 50%;
   }
-  #contacts{
+#contacts{
     float: left;
   }
 
@@ -68,10 +68,7 @@ img {
     padding:20px;
 
   }
- #home h1{
-    text-align: center;
-    font-size: large;
-  }
+ 
   footer{
     background-color:white;
 
