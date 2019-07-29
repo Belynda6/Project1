@@ -22,19 +22,8 @@ li a {
     padding: 14px 16px;
     text-decoration: none;
   }
-#contacts{
-  margin-left: auto;
-  margin-right: auto;color: aqua;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
 table, th, td {
-
-  margin-right: auto;
   border: 1px solid black;
-  margin-left: auto;
-  margin-right: auto;
   display: inline;
 }
 img {
@@ -49,5 +38,8 @@ img {
   }
   ol{
     list-style-type: lower-alpha;
+  }
+  body {
+    background-image: url("https://cdn2.hercampus.com/hero-images/2018/10/05/HC_1.jpg");
   }
   
