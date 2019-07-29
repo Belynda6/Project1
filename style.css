@@ -10,6 +10,10 @@ h2{
     overflow: hidden;
     background-color:teal;
   }
+  .home p{
+    float:right;
+    padding: 50px 0;
+  }
   
   li {
     float: left;
