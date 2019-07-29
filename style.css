@@ -3,9 +3,6 @@ h2{
     text-shadow: 2px 2px 4px solid black;
 
 }
-body{
-  color:white;
-}
 #nav ul {
     list-style-type: none;
     margin: 0;
@@ -39,10 +36,12 @@ img {
     list-style-type: square;
     list-style-position: outside;
     margin: 10px;
+    color:white;
   }
   ol{
     list-style-type: lower-alpha;
     margin: 10px;
+    color:white;
   }
   body {
     background-image: url("https://static.makeuseof.com/wp-content/uploads/2018/11/dark-wallpapers-670x335.jpg");
