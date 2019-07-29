@@ -1,6 +1,7 @@
 h2{
     text-align: center;
     text-shadow: 2px 2px 4px solid black;
+    font-size: medium;
 
 }
 #nav ul {
@@ -12,6 +13,7 @@ h2{
   }
   body{
     color:white;
+    font-size: 50px;
   }
   
   li {
@@ -52,7 +54,10 @@ img {
     margin: 10px;
 
   }
-  .foot{color:black;}
+  .foot{ 
+  color:black;
+  margin-top:600px:
+}
   body {
     background-image: url("https://static.makeuseof.com/wp-content/uploads/2018/11/dark-wallpapers-670x335.jpg");
   }
@@ -63,7 +68,12 @@ img {
     padding:20px;
 
   }
+ #home h1{
+    text-align: center;
+    font-size: large;
+  }
   footer{
     background-color:white;
+
   }
   
