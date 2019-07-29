@@ -3,7 +3,7 @@ h2{
     text-shadow: 2px 2px 4px solid black;
 
 }
-ul {
+#nav ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -32,5 +32,8 @@ ul {
     height:400px;
     width: 15%;
     border-radius: 50%;
-
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
   }
+  
