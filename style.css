@@ -13,7 +13,6 @@ h2{
   }
   body{
     color:white;
-    font-size: 50px;
   }
   
   li {
@@ -54,10 +53,6 @@ img {
     margin: 10px;
 
   }
-  .foot{ 
-  color:black;
-  margin-top:600px:
-}
   body {
     background-image: url("https://static.makeuseof.com/wp-content/uploads/2018/11/dark-wallpapers-670x335.jpg");
   }
