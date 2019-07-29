@@ -24,6 +24,7 @@ li a {
   }
 table, th, td {
   border: 1px solid black;
+  padding: 5px;
 }
 img {
   width: 15%;
@@ -35,9 +36,11 @@ img {
   ul{
     list-style-type: square;
     list-style-position: outside;
+    margin: 10px;
   }
   ol{
     list-style-type: lower-alpha;
+    margin: 10px;
   }
   body {
     background-image: url("https://cdn2.hercampus.com/hero-images/2018/10/05/HC_1.jpg");
