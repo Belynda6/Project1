@@ -3,6 +3,9 @@ h2{
     text-shadow: 2px 2px 4px solid black;
 
 }
+body{
+  color:white;
+}
 #nav ul {
     list-style-type: none;
     margin: 0;
