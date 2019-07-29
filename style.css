@@ -24,7 +24,6 @@ li a {
   }
 table, th, td {
   border: 1px solid black;
-  display: inline;
 }
 img {
   width: 15%;
