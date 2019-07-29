@@ -10,14 +10,16 @@ h2{
     overflow: hidden;
     background-color:teal;
   }
+  body{
+    color:white;
+  }
   
   li {
     float: left;
   }
   
-li a {
+li  {
     display: block;
-    color: white;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -36,16 +38,15 @@ img {
     list-style-type: square;
     list-style-position: outside;
     margin: 10px;
-    color:white;
+  
   }
   ol{
     list-style-type: lower-alpha;
     margin: 10px;
-    color:white;
+
   }
   body {
     background-image: url("https://static.makeuseof.com/wp-content/uploads/2018/11/dark-wallpapers-670x335.jpg");
-    background-repeat: no-repeat;
   }
   .aboutme{
     margin-top:250px;
