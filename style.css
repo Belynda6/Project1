@@ -23,17 +23,42 @@ h2{
     text-decoration: none;
   }
   #contacts{
-      background-color: aqua;
-  }
-  table, th, td {
-    border: 1px solid black;
-  }
-  img {
-    height:400px;
-    width: 15%;
-    border-radius: 50%;
+      background-codisplay: block;
+  margin-left: auto;
+  margin-right: auto;lor: aqua;
+  }display: block;
+  margin-left: auto;
+  margin-right: auto;
+  table, th, td {display: block;
+  margin-left: auto;
+  margin-right: auto;
+    border: 1px soldisplay: block;
+  margin-left: auto;
+  margin-right: auto;id black;
+  }display: block;
+  margin-left: auto;
+  margin-right: auto;
+  img {display: block;
+  margin-left: auto;
+  margin-right: auto;
+    height:400px;display: block;
+  margin-left: auto;
+  margin-right: auto;
+    width: 15%;display: block;
+  margin-left: auto;
+  margin-right: auto;
+    border-radius: display: block;
+  margin-left: auto;
+  margin-right: auto;50%;
     display: block;
     margin-left: auto;
     margin-right: auto;
+  }
+  
+  ul{
+    list-style-type: square;
+  }
+  ol{
+    list-style-type: lower-alpha;
   }
   
