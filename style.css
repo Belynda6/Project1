@@ -28,11 +28,9 @@ ul {
   table, th, td {
     border: 1px solid black;
   }
-  img{
+  img {
     height:400px;
     width: 15%;
-  }
-  .home{
-    background-image: src="https://cdn2.hercampus.com/hero-images/2018/10/05/HC_1.jpg";
-    background-repeat: no-repeat;
+    border-radius: 50%;
+
   }
