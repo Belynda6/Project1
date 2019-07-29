@@ -26,9 +26,10 @@ li  {
   }
 table, th, td {
   padding: 5px;
+  border: 20px white;
 }
 table{
-  margin-left:50%;
+  margin-left:20%;
 }
 img {
   width: 15%;
@@ -48,6 +49,7 @@ img {
     margin: 10px;
 
   }
+  .foot{color:black;}
   body {
     background-image: url("https://static.makeuseof.com/wp-content/uploads/2018/11/dark-wallpapers-670x335.jpg");
   }
