@@ -13,7 +13,7 @@ h3 {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color:teal;
+    background-color: #808080;
   }
 li  {
     
@@ -21,6 +21,9 @@ li  {
     padding: 14px 16px;
     text-decoration: none;
     float: left;
+    display: block;
+    padding: 10px;
+
  
   }
 table, th, td {
@@ -43,6 +46,7 @@ img {
   }
 #contacts{
     float: left;
+    margin-top: 10%;
   }
 
   ul{
@@ -56,18 +60,20 @@ img {
     margin: 10px;
 
   } 
-  /* body {
-    /* background-image: url("https://static.makeuseof.com/wp-content/uploads/2018/11/dark-wallpapers-670x335.jpg"); 
+  
+  body{
+    background-image: url("https://img.freepik.com/free-photo/smooth-dark-blue-with-black-vignette-studio-well-use-as-background-business-report-digital-website-template_1258-748.jpg?size=626&amp;ext=jpg");
     background-repeat: no-repeat;
-    background-size:cover;
-  } */
+    background-size: cover;
+  }
+
   .aboutme{
-    margin-top:400px; 
+    margin-top:190px; 
     height:890px;
   }
   
   #home {
-    height:870px;
+    height:700px;
   }
  
   .home {
@@ -95,9 +101,10 @@ img {
  }
   
 .foot{
-  margin-top:20%;
+  margin-top:22%;
   text-align: center;
-  background-color:teal;
+  background-color: #808080;
+  padding:20px;
 }
 #ho{
  margin-right: 80%;
