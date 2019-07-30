@@ -1,7 +1,6 @@
-h2{
+ h2{
     text-align: center;
     text-shadow: 2px 2px 4px solid black;
-<<<<<<< HEAD
     font-size: 28px;
 }
 h3 {
@@ -9,43 +8,21 @@ h3 {
     text-shadow: 2px 2px 4px solid black;
     font-size: 20px;
 }
-
-#nav ul {
-=======
-
-}
-ul {
->>>>>>> 7fd17888e11d5d81fcb42b29348d5a0fc02ff45b
+ ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
     background-color:teal;
   }
-<<<<<<< HEAD
-  body{
-    /* color:white; */
-  }
-=======
->>>>>>> 7fd17888e11d5d81fcb42b29348d5a0fc02ff45b
-  
-  li {
-    float: left;
-  }
-  
-<<<<<<< HEAD
 li  {
-    display: inline;
-=======
-  li a {
-    display: block;
-    color: white;
->>>>>>> 7fd17888e11d5d81fcb42b29348d5a0fc02ff45b
+    
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+    float: left;
+ 
   }
-<<<<<<< HEAD
 table, th, td {
   padding: 100px;
   border: 1px solid black;
@@ -78,14 +55,14 @@ img {
     list-style-type: lower-alpha;
     margin: 10px;
 
-  }
-  body {
-    /* background-image: url("https://static.makeuseof.com/wp-content/uploads/2018/11/dark-wallpapers-670x335.jpg"); */
+  } 
+  /* body {
+    /* background-image: url("https://static.makeuseof.com/wp-content/uploads/2018/11/dark-wallpapers-670x335.jpg"); 
     background-repeat: no-repeat;
     background-size:cover;
-  }
+  } */
   .aboutme{
-    /* margin-top:400px; */
+    margin-top:400px; 
     height:890px;
   }
   
@@ -104,41 +81,27 @@ img {
   .both {
     display: flex;
     flex: wrap;
+    justify-content:space-between;
   }
   
   .mine {
-    width: 50%;
+    width: 40%;
     margin-left: 100px;
 
   }
  .true {
-   width: 50%;
-   right:70px;
+   width: 60%;
+   margin-right:70px;
  }
- #ho {
-   margin-right: 480px;
- }
-
- #ski {
-   margin-right: 20px;
- }
-=======
-  #contacts{
-      background-color: aqua;
-  }
-  table, th, td {
-    border: 1px solid black;
-  }
-  img{
-    height:400px;
-    width: 15%;
-  }
-  body{
-      margin: 0;
-      font-size: 16px;
-      position: relative;
-      background-image: url(/images/v3/backgrounds/pictures/body/winestopper.jpg);
-      background-repeat: no-repeat;
-      
-  }
->>>>>>> 7fd17888e11d5d81fcb42b29348d5a0fc02ff45b
+  
+.foot{
+  margin-top:20%;
+  text-align: center;
+  background-color:teal;
+}
+#ho{
+ margin-right: 80%;
+}
+#ski{
+  margin-right: 80%;
+}
